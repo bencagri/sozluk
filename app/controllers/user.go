@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"sozluk/app"
-	"sozluk/app/models"
-	"sozluk/app/services"
+	"github.com/bencagri/sozluk/app"
+	"github.com/bencagri/sozluk/app/models"
+	"github.com/bencagri/sozluk/app/services"
 
 	"github.com/revel/revel"
 	"golang.org/x/crypto/bcrypt"

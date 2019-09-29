@@ -1,8 +1,8 @@
 package services
 
 import (
-	"sozluk/app/models"
-	"sozluk/app/repositories"
+	"github.com/bencagri/sozluk/app/models"
+	"github.com/bencagri/sozluk/app/repositories"
 )
 
 type ChannelService struct {

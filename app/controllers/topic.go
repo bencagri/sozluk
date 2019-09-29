@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"github.com/revel/revel"
-	"sozluk/app/services"
+	"github.com/bencagri/sozluk/app/services"
 	"strconv"
 )
 

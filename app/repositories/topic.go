@@ -2,8 +2,8 @@ package repositories
 
 import (
 	"github.com/biezhi/gorm-paginator/pagination"
-	"sozluk/app"
-	"sozluk/app/models"
+	"github.com/bencagri/sozluk/app"
+	"github.com/bencagri/sozluk/app/models"
 )
 
 type TopicSearchParams struct {

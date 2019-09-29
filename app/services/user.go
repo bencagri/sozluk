@@ -2,9 +2,9 @@ package services
 
 import (
 	"regexp"
-	"sozluk/app"
-	"sozluk/app/models"
-	"sozluk/app/repositories"
+	"github.com/bencagri/sozluk/app"
+	"github.com/bencagri/sozluk/app/models"
+	"github.com/bencagri/sozluk/app/repositories"
 
 	"github.com/revel/revel"
 )

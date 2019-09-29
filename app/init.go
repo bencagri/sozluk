@@ -8,8 +8,8 @@ import (
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 	"github.com/revel/revel"
 	"html/template"
-	"sozluk/app/helpers"
-	"sozluk/app/models"
+	"github.com/bencagri/sozluk/app/helpers"
+	"github.com/bencagri/sozluk/app/models"
 	"strings"
 )
 

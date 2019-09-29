@@ -1,8 +1,8 @@
 package repositories
 
 import (
-	"sozluk/app"
-	"sozluk/app/models"
+	"github.com/bencagri/sozluk/app"
+	"github.com/bencagri/sozluk/app/models"
 )
 
 type PostRepository struct{}

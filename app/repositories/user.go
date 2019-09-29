@@ -3,8 +3,8 @@ package repositories
 import (
 	// "github.com/revel/revel"
 	"errors"
-	"sozluk/app"
-	"sozluk/app/models"
+	"github.com/bencagri/sozluk/app"
+	"github.com/bencagri/sozluk/app/models"
 )
 
 //UserRepository struct
