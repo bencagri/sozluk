@@ -1,2 +1,2 @@
 
-## THIS PROJECT CONTINUES ON [SOCIOZAT/SOCIOZAT](github.com/sociozat/sociozat)
+## THIS PROJECT CONTINUES ON [SOCIOZAT/SOCIOZAT](https://github.com/sociozat/sociozat)
